@@ -30,7 +30,7 @@
 
 ### Links
 
-- Site URL: 
+- Site URL: https://paulo1310.github.io/product-preview-card-component/
 
 ### Construído com
 
