@@ -1,0 +1,33 @@
+@media(max-width: 600px) {
+    
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 400px;
+        height: 760px;
+        border-radius: 10px;
+    }
+
+    .parfum picture img {
+        height: 100%;
+        width: 100%;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .coluna-2 .information h2 {
+        margin-top: 15px;
+    }
+
+    .coluna-2 .information h1 {
+        font-size: 37px;
+    }
+
+    .coluna-2 .price {
+        margin-top: 15px;
+    }
+
+    .coluna-2 a {
+        margin-top: 15px;
+    }
+}
