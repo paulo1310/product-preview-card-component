@@ -29,7 +29,7 @@ main {
     padding-right: 40px;
 }
 
-.coluna-2 .information h2 {
+.coluna-2 .information span {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
@@ -58,12 +58,12 @@ main {
     align-items: center;
 }
 
-.coluna-2 .price h1 {
+.coluna-2 .price span {
     color: var(--Dark-cyan);
     font-size: 40px;
 }
 
-.coluna-2 .price h3 {
+.coluna-2 .price p {
     display: flex;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;

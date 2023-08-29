@@ -15,7 +15,7 @@
         border-radius: 10px 10px 0 0;
     }
 
-    .coluna-2 .information h2 {
+    .coluna-2, .information span {
         margin-top: 15px;
     }
 
